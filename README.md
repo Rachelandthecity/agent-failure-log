@@ -6,7 +6,7 @@ Every entry is a real failure from that work, with the date, the numbers, and th
 
 ## Who did what
 
-- **Rachel Hurley** directed the investigation and the agents, and decided which rules to keep. She is not a programmer.
+- **Rachel Hurley** directed the investigation and the agents, caught many of these failures herself, and decided which rules to keep. She is not a programmer.
 - **The failure log** was written up during the work by the Claude sessions running it, under her direction.
 - **The scripts** were written by Claude at her direction.
 - **This README** was drafted by Claude and approved by Rachel.
